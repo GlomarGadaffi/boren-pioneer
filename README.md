@@ -1,4 +1,4 @@
-# boren-pioneer
+# reticulum
 
 cryptography-based networking stack for building autonomous, distributed networks with readily available hardware. operate over LoRa, packet radio, WiFi, serial, TCP, or any custom interface. supports high-latency, low-bandwidth scenarios with end-to-end encryption, multi-hop routing, and no central authority.
 
